@@ -1,3 +1,6 @@
+This project consists of an application that lets you showcase a set of giphs from giphy depending on the keywords that you type!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
